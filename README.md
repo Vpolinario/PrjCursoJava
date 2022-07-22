@@ -1,3 +1,3 @@
 # PrjCursoJava
-##
-- Atividades com códigos "basicos" desenvolvidas no meu curso em Java.
+- Atividades com códigos "básicos" desenvolvidas no meu curso em Java.
+#

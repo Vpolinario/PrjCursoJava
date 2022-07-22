@@ -1,3 +1,3 @@
 # PrjCursoJava
-- Atividades com códigos "básicos" desenvolvidas no meu curso técnico em Java.
+- Atividades com códigos "básicos" em Java desenvolvidas no meu curso técnico.
 #
